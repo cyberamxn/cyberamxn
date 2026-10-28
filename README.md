@@ -1,5 +1,13 @@
+# 🚀 What I'm Building
 
-# 💫 About Me:
+**[Trackly](https://trackly.today)** — a free, offline-first, all-in-one life tracker with an AI assistant that understands English & Hinglish. Expenses, budgets, habits, tasks, notes, shopping lists and group expense splitting (a free [Splitwise alternative](https://trackly.today/features)) — one PWA, installs in 30 seconds, works offline. Made by [ahexa.studio](https://trackly.today/about).
+
+**[The n8n Playbook](https://automationebook.store)** — 220-page n8n automation ebook with 25 ready-to-import workflow templates.
+
+---
+
+
+## 💫 About Me:
 💀 CYBER EXPERT | NOT WORKING FOR JOB ⚡️  <br>🎯 Relying on Knowledge, No Need for Certificates  <br>❌ No Intent to Prove Myself — My Skills Speak  <br><br>🔐 CRACKING (For Education) 🆘  <br>💣 Virus Simulation & Payload Engineering 📌  <br>🛠 Custom RATs & Remote Tools (Lab Testing)  <br>🖥️ HTML • Python • SQL 💸  <br>📱 Android App Reverse Engineering 🖤  <br>🎨 Logo + GFX Designer 🔰  <br>🔥 Information Gathering | OSINT  <br><br>🕵️ Instagram Recovery / Unban Scripts 🧠  <br>🎣 Social Engineering & Page Emulation (Phishing Frameworks) ✔️  <br>📦 Payload Deployment (Emulated, Non-malicious)  <br>📥 User Footprint Analysis & Extraction  <br><br>💬 Content Creator 💴  <br>🧲 Web & Data Scraping 💸  <br>🧠 Linux (Kali / Ubuntu) Power User  <br>📱 Termux Automation 💎  <br>📺 Always Learning, Always Creating  <br><br>🧑‍💻 Working with Skills, Driven by Passion  <br>🌐 Exploring Cybersecurity | Privacy & Freedom  <br>📩 DM for Collaboration or Discussion
 
 
