@@ -1,6 +1,6 @@
 # 🚀 What I'm Building
 
-**[Trackly](https://trackly.today)** — a free, offline-first, all-in-one life tracker with an AI assistant that understands English & Hinglish. Expenses, budgets, habits, tasks, notes, shopping lists and group expense splitting (a free [Splitwise alternative](https://trackly.today/features)) — one PWA, installs in 30 seconds, works offline. Made by [ahexa.studio](https://trackly.today/about).
+**[Trackly](https://trackly.today)** — a free, offline-first, all-in-one life tracker with an AI assistant that understands English & Hinglish. Expenses, budgets, habits, tasks, notes, shopping lists and group expense splitting (a free [Splitwise alternative](https://trackly.today/features)) — one PWA, installs in 30 seconds, works offline. Open source (MIT): [cyberamxn/trackly-app](https://github.com/cyberamxn/trackly-app). Made by [ahexa.studio](https://trackly.today/about).
 
 **[The n8n Playbook](https://automationebook.store)** — 220-page n8n automation ebook with 25 ready-to-import workflow templates.
 
